@@ -24,6 +24,7 @@ Rellena la siguiente table (sustituye los problemas sugeridos por los propuestos
 | Educación | | | | |
 | Vacunación | | | | |
 | Productividad | | | | |
+| Manejo de TI  | Se ha observado un incremento en el número de reportes de servicios de TI | Escritos, Reportes HeplDesk | SQL/File System | Cantidad y tipo de problemas reportados, la idea es generar un plan de cursos para que el usuario final aprenda a solucionar de primera mano sus incidentes.
 
 ## Rúbrica
 
